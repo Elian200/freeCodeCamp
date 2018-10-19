@@ -32,7 +32,7 @@ To create your pages in `HTML`, you need to know how to structure a page in `HTM
 Instead of using `<div>` for every other container several semantic (these tags help screenreaders which are used by visually
 impaired) tags are available, such as `<header>` or `<footer>`. It is advisable to use these tags instead of the generic `<div>` tag. 
 
-##### Media elements
+#### Media Elements
 HTML5 has native support for audio and video with tags similar to the `img` tag.
 
 #### More Information:
