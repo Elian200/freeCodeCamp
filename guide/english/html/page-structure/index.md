@@ -28,6 +28,7 @@ To create your pages in `HTML`, you need to know how to structure a page in `HTM
 
 ### Changes in HTML5
 Retrived from [Dummies.com](https://www.dummies.com/web-design-development/html/notable-changes-in-html5/)
+
 #### Introduction of semantic tags
 Instead of using `<div>` for every other container several semantic (these tags help screenreaders which are used by visually
 impaired) tags are available, such as `<header>` or `<footer>`. It is advisable to use these tags instead of the generic `<div>` tag. 
