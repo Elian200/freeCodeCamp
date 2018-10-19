@@ -35,5 +35,8 @@ impaired) tags are available, such as `<header>` or `<footer>`. It is advisable 
 #### Media Elements
 HTML5 has native support for audio and video with tags similar to the `img` tag.
 
+#### Form Elements
+HTML5 has several new versions of the `<input>` element that allow users to pick colors, numbers, email addresses, and dates with easy-to-use elements.
+
 #### More Information:
 [HTML: Introduction](https://www.w3schools.com/html/html_intro.asp)
