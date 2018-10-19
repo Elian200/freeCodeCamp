@@ -27,13 +27,17 @@ To create your pages in `HTML`, you need to know how to structure a page in `HTM
 1. Between the `<body>` and `</ body>` tags the page content is placed, which is what is displayed in the browser.
 
 ### Changes in HTML5
-
+Retrived from [Dummies.com](https://www.dummies.com/web-design-development/html/notable-changes-in-html5/)
 #### Introduction of semantic tags
 Instead of using `<div>` for every other container several semantic (these tags help screenreaders which are used by visually
 impaired) tags are available, such as `<header>` or `<footer>`. It is advisable to use these tags instead of the generic `<div>` tag. 
 
 #### Media Elements
 HTML5 has native support for audio and video with tags similar to the `img` tag.
+
+#### Form Elements
+HTML5 has several new versions of the `<input>` element that allow users to pick colors, numbers, email addresses, and dates with easy-to-use elements.
+
 
 #### More Information:
 [HTML: Introduction](https://www.w3schools.com/html/html_intro.asp)
